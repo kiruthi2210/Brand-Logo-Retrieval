@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+easyocr
+open-clip-torch
+faiss-cpu
+opencv-python
+torch
+torchvision
+Pillow
+numpy
